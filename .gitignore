@@ -1,1 +1,4 @@
 exit
+*.in
+*.out
+*.pyc
